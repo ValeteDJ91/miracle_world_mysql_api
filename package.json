@@ -1,0 +1,15 @@
+{
+  "name": "miracle_world_mysql_api",
+  "version": "1.0.0",
+  "description": "A nodejs api to access mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valete_",
+  "license": "GNU GPL V3",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
